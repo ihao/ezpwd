@@ -1,0 +1,2 @@
+# ezpwd
+easy password generator
